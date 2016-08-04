@@ -1,0 +1,29 @@
+_repo: Count-Bunker--13-Being-a-Bald-Yet-Veracious-Chronicle-Containing-Some-Further-Particulars-of-T__1613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clouston, J. Storer (Joseph Storer)
+    alias: Clouston, Joseph Storer
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '1704'
+    url: http://www.gutenberg.org/2009/agents/1704
+    wikipedia: http://en.wikipedia.org/wiki/Storer_Clouston
+description: ''
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Germany -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- GITenberg
+title: "Count Bunker\r\nBeing a Bald Yet Veracious Chronicle Containing Some Further\
+  \ Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome\
+  \ Entitled \"The Lunatic at Large\""
+url: http://www.gutenberg.org/ebooks/1613
